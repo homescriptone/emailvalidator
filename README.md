@@ -1,0 +1,2 @@
+# HomeScript Email Validator Official
+ 
